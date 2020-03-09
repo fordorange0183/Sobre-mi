@@ -1,0 +1,139 @@
+/*reset*/
+*{
+    padding:0;
+    margin:0;
+}
+/*titulo*/
+#titulo1{
+    text-align: center;
+    color:white;
+    margin-top:50px;
+}
+
+#titulo{
+    text-align: center;
+    color:white;
+}
+/*centrador de caja*/
+div{
+    width:710px;
+    margin:0 auto;
+    margin-top:20px;
+    text-align: center;
+    color:white;
+    
+}
+/*Fotos*/
+.centro{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+#soy_yo{
+    text-align: center;
+    color:white;
+}
+/*texto de mi familia*/
+#mi_familia{
+     text-align: center;
+    color:white;
+}
+/*foto de mi familia*/
+#mi_familia1{
+    width:30%;
+}
+/*background*/
+body{
+    background-color: orange;
+}
+/*homeschooling*/
+#homeschooling{
+    width:40%
+}
+/*fotos de amigos*/
+
+#foto_amigos1{
+    width:20%;
+    float:left;
+    margin:5px;
+}
+
+#foto_amigos2{
+    width: 30%;
+    float:left;
+    margin:5px;
+}
+
+#foto_amigos3{
+    width: 30%;
+    float:left;
+    margin:5px;
+}
+
+#foto_nuevos_amigos01{
+    width:30%;
+    float:left;
+    margin:5px;
+}
+
+#foto_nuevos_amigos02{
+    width:30%;
+    float:left;
+    margin:5px;
+}
+/*fotos de mis juegos*/
+
+#foto_Brick_Rigs{
+    width:30%;
+    float:left;
+    margin:5px;
+}
+
+#foto_farming_17{
+    width:30%;
+    float:left;
+    margin:5px;
+}
+
+#foto_farming_19{
+    width:30%;
+    float:left;
+    margin:5px;
+}
+
+#foto_Roblox{
+    width:30%;
+   float:left;
+    margin:5px;
+}
+#foto_Scrap_Mechanic{
+    width:30%;
+     float:left;
+    margin:5px;
+}
+
+#foto_Space_Engineers{
+    width:30%;
+    float:left;
+    margin:5px;
+}
+/*video*/
+#video_esgrima{
+    width:40%;
+    
+}
+/*salidas de homeschooling*/
+#foto_salida01{
+    width:40%;
+}
+
+#foto_salida02{
+    width:40%;
+}
+
+/*mis mascotas*/
+#mascotas{
+    width:30%;
+}
